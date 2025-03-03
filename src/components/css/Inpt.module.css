@@ -1,0 +1,35 @@
+/* Inpt.module.css */
+#inptContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+    width: 100%;
+    max-width: 400px;
+}
+
+#inptTitle {
+    font-size: 14px;
+    font-weight: 600;
+    color: #333;
+}
+
+#inptInput {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid var(--gray-color);
+    border-radius: 8px;
+    outline: none;
+    transition: all 0.2s ease-in-out;
+}
+
+#inptInput:focus {
+    border-color: var(--blue-color);
+    box-shadow: 0 0 4px rgba(49, 130, 246, 0.3);
+}
+
+#inptError {
+    font-size: 12px;
+    color: #ff5b5b;
+    margin-top: 2px;
+}

@@ -1,0 +1,9 @@
+{
+  "short_name": "Payment Web",
+  "name": "Payment Web",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#f1f1f1"
+}
