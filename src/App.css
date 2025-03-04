@@ -2,5 +2,10 @@
     --font : 'Roboto', sans-serif;
     --gray-color: #BFCFE7;
     --blue-color: #525CEB;
-    --black-color: #525CEB;
+    --blue-color-dark: #424abf;
+    --black-color: #3D3B40;
+    --white-color: #F8EDFF;
+    --blue-color-blight: #BFCFE7;
+    --background-color: #f1f1f1;
+    --ERROR-COLOR: #F73F52;
 }
