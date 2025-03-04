@@ -1,0 +1,29 @@
+#navigator {
+    display: flex;
+    flex-direction: row;
+
+    padding: 0.3rem 1rem;
+
+    align-items: center;
+    justify-content: space-between;
+
+    background-color: var(--black-color);
+    border-radius: 0 0 0.3rem 0.3rem;
+}
+
+#navTitle {
+    color: var(--background-color);
+    font-family: var(--font), serif;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+#navBtnContainer {
+    display: flex;
+    flex-direction: row;
+
+    gap: 0.5rem;
+
+    align-items: center;
+    justify-content: center;
+}

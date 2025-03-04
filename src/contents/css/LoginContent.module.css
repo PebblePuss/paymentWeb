@@ -1,0 +1,16 @@
+#loginFormContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+
+    width: 70vw;
+    max-width: 500px;
+}
+
+#loginBtnContainer {
+    display: flex;
+    flex-direction: row;
+    gap: 1.3rem;
+
+    width: 100%;
+}
