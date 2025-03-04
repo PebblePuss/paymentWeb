@@ -1,13 +1,15 @@
-import Inpt from "../components/Inpt";
+import { userLogin } from "../hooks/userLogin";
+
+import styles from "./css/LoginPage.module.css"
+import LoginContent from "../contents/LoginContent";
 
 const LoginPage = () => {
+
     return (
-        <Inpt
-            key={1}
-            title={'아이디'}
-            error={"에러에러!"}
-            onchange={(e) => console.log(e)}
-        />
+        <section id={styles.loginContainer}>
+            <p id={styles.loginTitle}>KIT PAY</p>
+            <LoginContent />
+        </section>
     )
 }
 
