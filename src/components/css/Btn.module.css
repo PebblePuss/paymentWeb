@@ -1,0 +1,42 @@
+.Btn {
+    padding: 0.8rem 1rem;
+
+    background-color: var(--blue-color);
+    color: var(--background-color);
+
+    width: 100%;
+
+    font-size: 1.2rem;
+    font-weight: 600;
+
+    border: none;
+    border-radius: 8px;
+
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.Btn:hover {
+    background-color: var(--blue-color-dark);
+}
+
+.Btn:active {
+    background-color: var(--blue-color-dark);
+}
+
+.navBtn {
+    all: unset;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--white-color); /* 토스 블루 */
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+.navBtn:hover, .navBtn:active {
+    background: var(--blue-color-blight);
+    color: var(--blue-color-dark);
+}
