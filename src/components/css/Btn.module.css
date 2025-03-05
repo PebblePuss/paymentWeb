@@ -10,7 +10,7 @@
     font-weight: 600;
 
     border: none;
-    border-radius: 8px;
+    border-radius: 0.6rem;
 
     cursor: pointer;
     transition: background-color 0.3s ease;
@@ -26,11 +26,14 @@
 
 .navBtn {
     all: unset;
-    padding: 10px 20px;
-    border-radius: 8px;
+    padding: 0.8rem 1.1rem;
+
+    color: var(--white-color);
     font-size: 16px;
-    font-weight: 500;
-    color: var(--white-color); /* 토스 블루 */
+    font-weight: 600;
+
+    border-radius: 0.7rem;
+
     background: transparent;
     cursor: pointer;
     transition: all 0.2s ease-in-out;
