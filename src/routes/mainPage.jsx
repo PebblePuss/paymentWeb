@@ -23,11 +23,15 @@ const pageRoute = [
 const Mout = () => (
     <>
         <Nav />
-        <Routes>
-            {pageRoute.map((page, idx) =>
-                <Route key={idx} path={page.path} element={page.element} />
-            )}
-        </Routes>
+        <section
+            style={{marginTop: "3.5rem"}}
+        >
+            <Routes>
+                {pageRoute.map((page, idx) =>
+                    <Route key={idx} path={page.path} element={page.element} />
+                )}
+            </Routes>
+        </section>
     </>
 );
 
