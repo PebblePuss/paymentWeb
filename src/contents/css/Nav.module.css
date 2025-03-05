@@ -1,8 +1,13 @@
 #navigator {
     display: flex;
     flex-direction: row;
+    position: fixed;
+    top: 0;
+    left: 0;
 
     padding: 0.3rem 1rem;
+
+    width: 100vw;
 
     align-items: center;
     justify-content: space-between;
