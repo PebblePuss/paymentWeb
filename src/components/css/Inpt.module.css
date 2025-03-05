@@ -1,4 +1,4 @@
-#inptContainer {
+.inptContainer {
     display: flex;
     flex-direction: column;
     gap: 0.4rem;
@@ -6,7 +6,7 @@
     width: 100%;
 }
 
-#inptTitle {
+.inptTitle {
     padding-left: 0.1rem;
 
     color: var(--black-color);
@@ -14,25 +14,24 @@
     font-weight: 600;
 }
 
-#inptInput {
+.inptInput {
     padding: 0.8rem;
 
     font-size: 16px;
-    font-family: var(--font), serif;
     
     border: 1px solid var(--gray-color);
-    border-radius: 8px;
+    border-radius: 0.6rem;
 
     outline: none;
     transition: all 0.2s ease-in-out;
 }
 
-#inptInput:focus {
+.inptInput:focus {
     border-color: var(--blue-color);
     box-shadow: 0 0 4px rgba(49, 130, 246, 0.3);
 }
 
-#inptError {
+.inptError {
     padding-left: 0.6rem;
 
     color: var(--ERROR-COLOR);

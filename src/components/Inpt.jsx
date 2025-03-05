@@ -1,22 +1,20 @@
 import styles from './css/Inpt.module.css';
 
-const Inpt = ({ key, title, error, onchange }) => {
+const Inpt = ({ title, error, onchange }) => {
     return (
-        <div
-            key={key}
-            id={styles.inptContainer}
+        <div className={styles.inptContainer}
         >
-            <p id={styles.inptTitle}>
+            <p className={styles.inptTitle}
+            >
                 {title}
             </p>
             <input
-                id={styles.inptInput}
+                className={styles.inptInput}
                 onChange={e => onchange(e)}
             />
-            { error && <p id={styles.inptError}>{error}</p> }
+            { error && <p className={styles.inptError}>{error}</p> }
         </div>
     )
 }
-
 
 export default Inpt;
