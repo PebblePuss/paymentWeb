@@ -1,4 +1,4 @@
-#loginContainer {
+.loginContainer {
     display: flex;
     flex-direction: column;
     gap: 2rem;
@@ -10,9 +10,8 @@
     justify-content: center;
 }
 
-#loginTitle {
+.loginTitle {
     color: var(--black-color);
-    font-family: var(--font), serif;
     font-size: 3rem;
     font-weight: bold;
 }

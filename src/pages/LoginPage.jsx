@@ -1,13 +1,13 @@
-import { userLogin } from "../hooks/userLogin";
+import LoginContent from "../contents/Login_Content";
 
 import styles from "./css/LoginPage.module.css"
-import LoginContent from "../contents/LoginContent";
 
 const LoginPage = () => {
 
     return (
-        <section id={styles.loginContainer}>
-            <p id={styles.loginTitle}>KIT PAY</p>
+        <section className={styles.loginContainer}
+        >
+            <p className={styles.loginTitle}>KIT PAY</p>
             <LoginContent />
         </section>
     )
