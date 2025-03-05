@@ -9,3 +9,7 @@
     --background-color: #f1f1f1;
     --ERROR-COLOR: #F73F52;
 }
+
+body {
+    font-family: var(--font), serif;
+}
