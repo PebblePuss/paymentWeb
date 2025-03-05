@@ -3,26 +3,24 @@ import { userLogin } from "../hooks/userLogin";
 import Inpt from "../components/Inpt";
 import Btn from "../components/Btn";
 
-import styles from "./css/LoginContent.module.css";
+import styles from "./css/Login_Content.module.css";
 
 const LoginContent = () => {
     const [data, error, setData] = userLogin(null);
 
     return (
-        <form id={styles.loginFormContainer}>
+        <form className={styles.loginFormContainer}>
             <Inpt
-                key={1}
                 title={"아이디"}
                 error={error.id}
                 onchange={setData}
             />
             <Inpt
-                key={2}
                 title={"패스워드"}
                 error={error.pw}
                 onchange={setData}
             />
-            <div id={styles.loginBtnContainer}>
+            <div className={styles.loginBtnContainer}>
                 <Btn
                     type="submit"
                     mode={""}
