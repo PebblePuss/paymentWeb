@@ -1,13 +1,15 @@
-import UserDiv from "../components/UserDiv";
+import MyViewAside from "../contents/MyView";
+import HistoryAccount from "../contents/History_Account";
+
+import styles from "./css/MainPage.module.css"
+
 
 const MainPage = () => {
     return (
-        <section>
-            <UserDiv
-                imagePath={"./public/images/profile.png"}
-                id={"오승택"}
-                email={"dummy@example.com"}
-            />
+        <section className={styles.MainContainer}
+        >
+            <HistoryAccount />
+            <MyViewAside />
         </section>
     );
 }
