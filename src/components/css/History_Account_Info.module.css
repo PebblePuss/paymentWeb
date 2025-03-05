@@ -1,0 +1,63 @@
+.MyView_ProductHistory {
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+
+    margin: 0.5rem;
+    padding: 1rem 0.9rem;
+
+    justify-content: center;
+
+    background-color: white;
+    border: 0.01rem solid #f1f1f1;
+    border-radius: 0.4rem;
+
+    box-shadow: 0.1rem 0.1rem 0.4rem rgba(0, 0, 0, 0.2);
+}
+
+.MyView_ProductHistory_ProductStatus {
+    font-size: 1.3rem;
+    font-weight: 650;
+}
+
+.MyView_ProductHistory_Info {
+    display: flex;
+    flex-direction: row;
+    gap: 1.2rem;
+
+    align-items: center;
+}
+
+.MyView_ProductHistory_Info_Details {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+}
+
+.MyView_ProductHistory_Btn {
+    display: flex;
+    flex-direction: row;
+    gap: 0.8rem;
+}
+
+.MyView_ProductHistory_Info_Details_Date {
+    font-size: 1rem;
+}
+
+.MyView_ProductHistory_Info_Details_Name {
+    font-size: 1.3rem;
+    font-weight: 650;
+}
+
+.MyView_ProductHistory_Info_Details_Price {
+    font-size: 1.2rem;
+    font-weight: 450;
+}
+
+.dummyImage {
+    width: 100px;
+    height: 100px;
+
+    background-color: black;
+    border-radius: 0.6rem;
+}

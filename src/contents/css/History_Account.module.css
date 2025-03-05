@@ -1,0 +1,21 @@
+.PaymentHistory {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+    align-items: center;
+}
+
+.PaymentHistory_Title {
+    margin: 4rem 0;
+    font-size: 2.6rem;
+    font-weight: 750;
+}
+
+.PaymentHistory_ItemContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+
+    width: 100%;
+}
