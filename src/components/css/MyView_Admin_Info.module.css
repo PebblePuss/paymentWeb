@@ -1,0 +1,19 @@
+.MyView_Admin {
+    display: flex;
+    flex-direction: column;
+    gap: 0.7rem;
+
+    padding: 0.8rem;
+
+    justify-content: center;
+
+    border: 0.2rem solid black;
+}
+
+.MyView_Admin_Welcome {
+    font-weight: 700;
+}
+
+.MyView_Admin_Name {
+    font-weight: 500;
+}
