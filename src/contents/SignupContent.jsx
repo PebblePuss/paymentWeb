@@ -9,7 +9,7 @@ const SignupContent = () => {
     const [data, error, setData] = userSignup(null);
 
     return (
-        <form id={styles.signupFormContainer}>
+        <form className={styles.signupFormContainer}>
             <Inpt
                 key={1}
                 title={"아이디"}
@@ -28,10 +28,10 @@ const SignupContent = () => {
                 error={error.email}
                 onchange={setData}
             />
-            <div id={styles.signupBtnContainer}>
+            <div className={styles.signupBtnContainer}>
                 <Btn
                     type="submit"
-                    mode={"signup"}
+                    mode={""}
                     text={"회원가입"}
                     onClick={() => console.log("회원가입 클릭") }
                 />

@@ -1,4 +1,4 @@
-#signupFormContainer {
+.signupFormContainer {
     display: flex;
     flex-direction: column;
     gap: 2rem;
@@ -7,7 +7,7 @@
     max-width: 500px;
 }
 
-#signupBtnContainer {
+.signupBtnContainer {
     display: flex;
     flex-direction: row;
     gap: 1.3rem;
