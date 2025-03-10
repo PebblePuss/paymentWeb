@@ -1,9 +1,10 @@
 import MyViewAdminInfo from "../components/MyView_Admin_Info";
+import AdminView from "../contents/AdminView";
 
 const AdminPage = () => {
     return (
         <section>
-            <MyViewAdminInfo name={"오승택"} />
+            <AdminView />
         </section>
     )
 }
