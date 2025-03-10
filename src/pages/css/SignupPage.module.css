@@ -1,0 +1,17 @@
+.signupContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+
+    width: 100vw;
+    height: 100vh;
+
+    align-items: center;
+    justify-content: center;
+}
+
+.signupTitle {
+    color: var(--black-color);
+    font-size: 3rem;
+    font-weight: bold;
+}
