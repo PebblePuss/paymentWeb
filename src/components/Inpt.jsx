@@ -10,7 +10,7 @@ const Inpt = ({ title, error, onchange }) => {
             </p>
             <input
                 className={styles.inptInput}
-                onChange={e => onchange(e)}
+                onChange={e => onchange(e.target.value)}
             />
             { error && <p className={styles.inptError}>{error}</p> }
         </div>

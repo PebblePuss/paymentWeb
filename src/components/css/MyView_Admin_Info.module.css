@@ -3,11 +3,13 @@
     flex-direction: column;
     gap: 0.7rem;
 
+    margin: 1rem;
     padding: 0.8rem;
 
     justify-content: center;
 
-    border: 0.2rem solid black;
+    border: 0.08rem solid black;
+    border-radius: 0.6rem;
 }
 
 .MyView_Admin_Welcome {

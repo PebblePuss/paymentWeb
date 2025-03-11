@@ -1,0 +1,32 @@
+.adminView_userInfo {
+    display: flex;
+    flex-direction: column;
+
+    justify-content: space-around;
+}
+
+.adminView_userInfo_container {
+    display: flex;
+    flex-direction: row;
+
+    margin: 1rem;
+    padding: 0.7rem 3rem;
+
+    justify-content: space-between;
+
+    border: 0.1rem solid black;
+    border-radius: 0.6rem;
+}
+
+.adminView_userController {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+
+    width: 20%;
+}
+
+.adminView_userInfo_name { font-size: 1.3rem; font-weight: 540; }
+.adminView_userInfo_email { font-size: 1.12rem; font-weight: 540; }
+.adminView_userInfo_accountId { font-size: 0.98rem; font-weight: 540; }
+.adminView_userInfo_account { font-size: 0.98rem; font-weight: 540; }

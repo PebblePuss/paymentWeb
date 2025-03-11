@@ -1,0 +1,308 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"9e76e714-fc80-4b9c-8c4d-138d67577df7\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/components/Btn.jsx\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/package-lock.json\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/package-lock.json\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/package.json\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/package.json\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/App.css\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/App.css\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/App.js\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/App.js\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/components/css/Inpt.module.css\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/components/css/Inpt.module.css\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/pages/LoginPage.jsx\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/pages/LoginPage.jsx\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/pages/MainPage.jsx\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/pages/MainPage.jsx\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/pages/SignupPage.jsx\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/pages/SignupPage.jsx\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/routes/main.jsx\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/routes/rootPage.jsx\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"JavaScript File\" />\r\n        <option value=\"JSX File\" />\r\n        <option value=\"CSS File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 7\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2tn64u2FXhOOkItmOpBjzoeTgv4\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"last_opened_file_path\": \"C:/Users/apink/Documents/Project/paymentWeb\",\r\n    \"list.type.of.created.stylesheet\": \"CSS\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"settings.editor.selected.configurable\": \"settings.nodejs\",\r\n    \"ts.external.directory.path\": \"C:\\\\Users\\\\apink\\\\AppData\\\\Local\\\\Programs\\\\WebStorm\\\\plugins\\\\javascript-plugin\\\\jsLanguageServicesImpl\\\\external\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\apink\\Documents\\Project\\paymentWeb\\src\\components\\css\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.25659.40\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"9e76e714-fc80-4b9c-8c4d-138d67577df7\" name=\"Changes\" comment=\"\" />\r\n      <created>1740975303548</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1740975303548</updated>\r\n      <workItem from=\"1740975304594\" duration=\"10472000\" />\r\n      <workItem from=\"1741080061152\" duration=\"12000\" />\r\n      <workItem from=\"1741080080285\" duration=\"8524000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 839a71ad1896b5556e8d6044b4e289f8784241ef)
++++ b/.idea/workspace.xml	(date 1741603694333)
+@@ -4,18 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="9e76e714-fc80-4b9c-8c4d-138d67577df7" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/src/components/Btn.jsx" afterDir="false" />
++    <list default="true" id="9e76e714-fc80-4b9c-8c4d-138d67577df7" name="Changes" comment="[SET] set page default export">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/components/css/Inpt.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/Inpt.module.css" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/pages/LoginPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/LoginPage.jsx" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/pages/MainPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/MainPage.jsx" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/pages/SignupPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/SignupPage.jsx" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/routes/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/rootPage.jsx" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -26,14 +16,26 @@
+     <option name="RECENT_TEMPLATES">
+       <list>
+         <option value="JavaScript File" />
+-        <option value="JSX File" />
+         <option value="CSS File" />
++        <option value="JSX File" />
+       </list>
+     </option>
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;,
++    &quot;assignee&quot;: &quot;PebblePuss&quot;
++  }
++}</component>
++  <component name="GithubPullRequestsUISettings">{
++  &quot;selectedUrlAndAccountId&quot;: {
++    &quot;url&quot;: &quot;https://github.com/PebblePuss/paymentWeb.git&quot;,
++    &quot;accountId&quot;: &quot;5a9c69aa-cca1-4269-8aa5-4533e56dba86&quot;
++  }
++}</component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 7
+ }</component>
+@@ -43,26 +45,30 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.git.unshallow": "true",
+-    "git-widget-placeholder": "main",
+-    "last_opened_file_path": "C:/Users/apink/Documents/Project/paymentWeb",
+-    "list.type.of.created.stylesheet": "CSS",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "settings.editor.selected.configurable": "settings.nodejs",
+-    "ts.external.directory.path": "C:\\Users\\apink\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/apink/Documents/Project/test&quot;,
++    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
++    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\apink\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
++      <recent name="C:\Users\apink\Documents\Project\paymentWeb\src\contents" />
++      <recent name="C:\Users\apink\Documents\Project\paymentWeb\src\components" />
+       <recent name="C:\Users\apink\Documents\Project\paymentWeb\src\components\css" />
++      <recent name="C:\Users\apink\Documents\Project\paymentWeb\src\contents\css" />
++      <recent name="C:\Users\apink\Documents\Project\paymentWeb\src" />
+     </key>
+   </component>
+   <component name="SharedIndexes">
+@@ -82,11 +88,200 @@
+       <updated>1740975303548</updated>
+       <workItem from="1740975304594" duration="10472000" />
+       <workItem from="1741080061152" duration="12000" />
+-      <workItem from="1741080080285" duration="8524000" />
++      <workItem from="1741080080285" duration="8843000" />
++      <workItem from="1741146144567" duration="2000" />
++      <workItem from="1741165678341" duration="9168000" />
++      <workItem from="1741253858347" duration="2034000" />
++      <workItem from="1741263114518" duration="1342000" />
++      <workItem from="1741544238774" duration="1957000" />
++      <workItem from="1741603564076" duration="130000" />
++    </task>
++    <task id="LOCAL-00001" summary="[CHANGE] change root css">
++      <option name="closed" value="true" />
++      <created>1741174860786</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1741174860786</updated>
++    </task>
++    <task id="LOCAL-00002" summary="[CHANGE] update Btn props">
++      <option name="closed" value="true" />
++      <created>1741174916590</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1741174916590</updated>
++    </task>
++    <task id="LOCAL-00003" summary="[CHANGE] update Btn props">
++      <option name="closed" value="true" />
++      <created>1741174934833</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1741174934833</updated>
++    </task>
++    <task id="LOCAL-00004" summary="[CHANGE] update Inpt props &amp; structure">
++      <option name="closed" value="true" />
++      <created>1741174964923</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1741174964923</updated>
++    </task>
++    <task id="LOCAL-00005" summary="[DEVELOP] develop aside contents MyView">
++      <option name="closed" value="true" />
++      <created>1741175016443</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1741175016443</updated>
++    </task>
++    <task id="LOCAL-00006" summary="[CHANGE] change Login contents file path &amp; remove key props">
++      <option name="closed" value="true" />
++      <created>1741175070082</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1741175070082</updated>
++    </task>
++    <task id="LOCAL-00007" summary="[ADD] add dummy image">
++      <option name="closed" value="true" />
++      <created>1741175088106</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1741175088106</updated>
++    </task>
++    <task id="LOCAL-00008" summary="[CHANGE] change userDiv -&gt; MyView">
++      <option name="closed" value="true" />
++      <created>1741175147421</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1741175147421</updated>
++    </task>
++    <task id="LOCAL-00009" summary="[DEVELOP] develop history account component">
++      <option name="closed" value="true" />
++      <created>1741175177693</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1741175177693</updated>
++    </task>
++    <task id="LOCAL-00010" summary="[CHANGE] change loginPage css">
++      <option name="closed" value="true" />
++      <created>1741175210934</created>
++      <option name="number" value="00010" />
++      <option name="presentableId" value="LOCAL-00010" />
++      <option name="project" value="LOCAL" />
++      <updated>1741175210934</updated>
++    </task>
++    <task id="LOCAL-00011" summary="[UPDATE] update mainPage">
++      <option name="closed" value="true" />
++      <created>1741175236764</created>
++      <option name="number" value="00011" />
++      <option name="presentableId" value="LOCAL-00011" />
++      <option name="project" value="LOCAL" />
++      <updated>1741175236764</updated>
+     </task>
++    <task id="LOCAL-00012" summary="[ADD] add css to main container">
++      <option name="closed" value="true" />
++      <created>1741175267752</created>
++      <option name="number" value="00012" />
++      <option name="presentableId" value="LOCAL-00012" />
++      <option name="project" value="LOCAL" />
++      <updated>1741175267752</updated>
++    </task>
++    <task id="LOCAL-00013" summary="[CHANGE] change file name">
++      <option name="closed" value="true" />
++      <created>1741175286926</created>
++      <option name="number" value="00013" />
++      <option name="presentableId" value="LOCAL-00013" />
++      <option name="project" value="LOCAL" />
++      <updated>1741175286926</updated>
++    </task>
++    <task id="LOCAL-00014" summary="[CHANGE] change navigator css">
++      <option name="closed" value="true" />
++      <created>1741175301429</created>
++      <option name="number" value="00014" />
++      <option name="presentableId" value="LOCAL-00014" />
++      <option name="project" value="LOCAL" />
++      <updated>1741175301429</updated>
++    </task>
++    <task id="LOCAL-00015" summary="[DEVELOP] develop MyView component">
++      <option name="closed" value="true" />
++      <created>1741175324237</created>
++      <option name="number" value="00015" />
++      <option name="presentableId" value="LOCAL-00015" />
++      <option name="project" value="LOCAL" />
++      <updated>1741175324237</updated>
++    </task>
++    <task id="LOCAL-00016" summary="[DEVELOP] develop contents &amp; components css">
++      <option name="closed" value="true" />
++      <created>1741175359769</created>
++      <option name="number" value="00016" />
++      <option name="presentableId" value="LOCAL-00016" />
++      <option name="project" value="LOCAL" />
++      <updated>1741175359769</updated>
++    </task>
++    <task id="LOCAL-00017" summary="[DEVELOP] develop Payment Account Contents">
++      <option name="closed" value="true" />
++      <created>1741175391152</created>
++      <option name="number" value="00017" />
++      <option name="presentableId" value="LOCAL-00017" />
++      <option name="project" value="LOCAL" />
++      <updated>1741175391152</updated>
++    </task>
++    <task id="LOCAL-00018" summary="[UPDATE] update signup page">
++      <option name="closed" value="true" />
++      <created>1741603615016</created>
++      <option name="number" value="00018" />
++      <option name="presentableId" value="LOCAL-00018" />
++      <option name="project" value="LOCAL" />
++      <updated>1741603615016</updated>
++    </task>
++    <task id="LOCAL-00019" summary="[DEVELOP] develop admin page">
++      <option name="closed" value="true" />
++      <created>1741603645681</created>
++      <option name="number" value="00019" />
++      <option name="presentableId" value="LOCAL-00019" />
++      <option name="project" value="LOCAL" />
++      <updated>1741603645681</updated>
++    </task>
++    <task id="LOCAL-00020" summary="[SET] set page default export">
++      <option name="closed" value="true" />
++      <created>1741603671179</created>
++      <option name="number" value="00020" />
++      <option name="presentableId" value="LOCAL-00020" />
++      <option name="project" value="LOCAL" />
++      <updated>1741603671179</updated>
++    </task>
++    <option name="localTasksCounter" value="21" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="[CHANGE] change root css" />
++    <MESSAGE value="[CHANGE] update Btn props" />
++    <MESSAGE value="[CHANGE] update Inpt props &amp; structure" />
++    <MESSAGE value="[DEVELOP] develop aside contents MyView" />
++    <MESSAGE value="[CHANGE] change Login contents file path &amp; remove key props" />
++    <MESSAGE value="[ADD] add dummy image" />
++    <MESSAGE value="[CHANGE] change userDiv -&gt; MyView" />
++    <MESSAGE value="[DEVELOP] develop history account component" />
++    <MESSAGE value="[CHANGE] change loginPage css" />
++    <MESSAGE value="[UPDATE] update mainPage" />
++    <MESSAGE value="[ADD] add css to main container" />
++    <MESSAGE value="[CHANGE] change file name" />
++    <MESSAGE value="[CHANGE] change navigator css" />
++    <MESSAGE value="[DEVELOP] develop MyView component" />
++    <MESSAGE value="[DEVELOP] develop contents &amp; components css" />
++    <MESSAGE value="[DEVELOP] develop Payment Account Contents" />
++    <MESSAGE value="[UPDATE] update signup page" />
++    <MESSAGE value="[DEVELOP] develop admin page" />
++    <MESSAGE value="[SET] set page default export" />
++    <option name="LAST_COMMIT_MESSAGE" value="[SET] set page default export" />
++  </component>
+ </project>
+\ No newline at end of file

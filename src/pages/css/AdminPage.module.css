@@ -1,0 +1,4 @@
+.AdminPageContainer {
+    display: flex;
+    flex-direction: row;
+}

@@ -6,9 +6,24 @@
   <component name="ChangeListManager">
     <list default="true" id="9e76e714-fc80-4b9c-8c4d-138d67577df7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/AdminView_User_Info.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AdminView_User_Info.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Deducted_Btn.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/contents/Deducted_Btn.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Inpt.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Inpt.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/css/MyView_Admin_Info.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/MyView_Admin_Info.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contents/AdminView.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/contents/AdminView.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contents/Admin_Account_Controller.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/contents/Admin_Controller_Account.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contents/Deducted_Btn.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contents/Login_Content.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/contents/Login_Content.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contents/MyView.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/contents/MyView.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contents/Nav.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/contents/Nav.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contents/SignupContent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/contents/SignupContent.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/AdminPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/AdminPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/PaymentPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ProductPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/StorePage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/StorePage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/TransferPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/TransferPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/mainPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/mainPage.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,26 +34,15 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
+        <option value="HTML File" />
         <option value="JSX File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "PebblePuss"
-  }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/PebblePuss/paymentWeb.git",
-    "accountId": "724f6f3f-011d-4962-b2fb-2ab74c17d26e"
-  }
-}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -50,11 +54,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/apink/Documents/project/paymentWeb",
+    "last_opened_file_path": "C:/Users/apink/Documents/Project/paymentWeb",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -68,15 +72,13 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\apink\Documents\project\paymentWeb\src\contents" />
       <recent name="C:\Users\apink\Documents\Project\paymentWeb\src\components\css" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.25659.40" />
       </set>
     </attachedChunks>
   </component>
@@ -91,7 +93,6 @@
       <workItem from="1740975304594" duration="10472000" />
       <workItem from="1741080061152" duration="12000" />
       <workItem from="1741080080285" duration="8524000" />
-      <workItem from="1741606951169" duration="2857000" />
     </task>
     <servers />
   </component>

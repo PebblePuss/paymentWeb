@@ -1,0 +1,40 @@
+.StoreView_ProductInfo_Container {
+    display: flex;
+    flex-direction: row;
+
+    margin: 1rem;
+    padding: 0.6rem 1.2rem;
+
+    justify-content: space-between;
+
+    border: 0.1rem solid black;
+    border-radius: 0.6rem;
+}
+
+.StoreView_ProductInfo {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+
+    width: 800%;
+}
+
+.StoreView_ProductInfo_text {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+    margin-top: 1.5rem;
+}
+
+.StoreView_ProductInfo_name { font-size: 2.2rem; font-weight: 450; }
+.StoreView_ProductInfo_price { font-size: 1.2rem; font-weight: 450; }
+
+.dummyImage {
+    width: 150px;
+    height: 150px;
+
+    background-color: black;
+
+    border-radius: 0.6rem;
+}
